@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on pwning the main server
 - 🤔 I’m looking for people who can contribute to this repo 
 - 💬 Ask me about how to indulge in exam fraud
-- 📫 How to reach me: Shady@protonmail.ch
+- 📫 How to reach me: Shady_06@protonmail.ch
