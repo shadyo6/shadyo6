@@ -53,7 +53,7 @@
     <td>21/tcp</td>
     <td>open</td>
     <td>Wing FTP server</td>
-    <td>http://10.10.1.12</td>
+    <td rowspan:"9">http://10.10.1.12</td>
   </tr>
   <tr>
     <td>22/tcp</td>
