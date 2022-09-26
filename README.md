@@ -6,6 +6,7 @@
 <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3>
 <h2>PWNED</h2>
 
+<table>
   <tr>
     <th>SERVICE</th>
     <th>NAME</th>
@@ -27,6 +28,7 @@
     <td> KOHA </td>
     <td> http://10.10.1.5/inout/login.php </td>
  </tr>
+</table>
 
 ##10.10.1.X
 <table>
@@ -57,19 +59,19 @@
     <td>21/tcp</td>
     <td>open</td>
     <td>Wing FTP server</td>
-    Span <td colspan:"9">http://10.10.1.12</td>
+    <td colspan="9">http://10.10.1.12</td>
   </tr>
   <tr>
     <td>22/tcp</td>
     <td>open</td>
     <td>ssh</td>
-    <td></td>
+  
   </tr>
   <tr>
     <td>80/tcp</td>
     <td>open</td>
     <td>http</td>
-    <td></td>
+    
   </tr>
   <tr>
     <td>111/tcp</td>
@@ -81,38 +83,32 @@
     <td>135/tcp</td>
     <td>open</td>
     <td>msrpc</td>
-    <td>&nbsp;</td>
+   
   </tr>
   <tr>
     <td>139/tcp</td>
     <td>open</td>
     <td>netbios-ssn</td>
-    <td>&nbsp;</td>
+    
   </tr>
   <tr>
     <td>443/tcp</td>
     <td>open</td>
     <td>https</td>
-    <td>&nbsp;</td>
+ 
   </tr>
   <tr>
     <td>445/tcp</td>
     <td>open</td>
     <td>microsoft-ds</td>
-    <td>&nbsp;</td>
+ 
   </tr>
   <tr>
     <td>3389/tcp</td>
     <td>open</td>
     <td>ms-wbt-server</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>MAC Address</td>
-    <td>1C:C1:DE:EA:CA:06</td>
-    <td>Hewlett Packard</td>
-    <td>&nbsp;</td>
-  </tr>  
+
+  </tr> 
   <tr>
     <td>22/tcp</td>
     <td>open</td>
