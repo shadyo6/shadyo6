@@ -13,7 +13,7 @@
 
 ## 10.10.1.X
 | PORT | STATE | SERVICE | IP ADDRESS | MAC ADDRESS | Hewlett Packard |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 22/tcp | open | Library main page | http://10.10.1.5 |
 | 22/tcp | open | Storage Management Utility |http://10.10.1.8 |
 | 22/tcp | open | Apache 2 web server | http://10.10.1.9 |
