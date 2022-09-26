@@ -45,19 +45,16 @@
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td> </td>
     <td>Storage Management Utility</td>
     <td>http://10.10.1.8</td>
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td> </td>
     <td>Apache 2 web server</td>
     <td>http://10.10.1.9</td>
   </tr>
   <tr>
     <td>21/tcp</td>
-    <td> </td>
     <td>Wing FTP server</td>
     <td rowspan="9">http://10.10.1.12</td>
   </tr>
