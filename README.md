@@ -7,11 +7,8 @@
 <h2>PWNED</h2>
 
 
-|Align left| Align right|center text|
-|cell data1|cell data2|cell data3|
-
-|SERVICE |NAME  | URL|
-|:---| ---:|:---:|
+|SERVICE|NAME|URL|
+|:---|:---|:---|
 | WIFI | SOPHOS | https://10.10.1.2:8090/httpclient.html |
 | FTP server| Wing FTP Server | http://10.10.1.12/main.html |
 | LIBRARY | KOHA | http://10.10.1.5/inout/login.php |
