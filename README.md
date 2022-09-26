@@ -77,7 +77,7 @@
     <td>111/tcp</td>
     <td>open</td>
     <td>rpcbind</td>
-    <td>&nbsp;</td>
+  
   </tr>
   <tr>
     <td>135/tcp</td>
