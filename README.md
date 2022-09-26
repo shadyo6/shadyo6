@@ -1,152 +1,153 @@
-*   🤔 I’m looking for people who can contribute to this repo
-
-*   📫 How to reach me: Shady\_06@protonmail.ch
-
-table.t1 { empty-cells: hide; }
-
-### CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK
-
-PWNED
------
-
-WIFI
-
-SOPHOS
-
-https://10.10.1.2:8090/httpclient.html
-
-FTP server
-
-Wing FTP Server
-
-http://10.10.1.12/main.html
-
-LIBRARY
-
-KOHA
-
-http://10.10.1.5/inout/login.php
-
-10.10.1.X
----------
-
-PORT
-
-STATE
-
-SERVICE
-
-IP ADDRESS
-
-22/tcp
-
-open
-
-Library main page
-
-http://10.10.1.5
-
-22/tcp
-
-open
-
-Storage Management Utility
-
-http://10.10.1.8
-
-22/tcp
-
-open
-
-Apache 2 web server
-
-http://10.10.1.9
-
-21/tcp
-
-open
-
-Wing FTP server
-
-http://10.10.1.12
-
-22/tcp
-
-ssh
-
-80/tcp
-
-http
-
-111/tcp
-
-rpcbind
-
-135/tcp
-
-msrpc
-
-139/tcp
-
-netbios-ssn
-
-443/tcp
-
-https
-
-445/tcp
-
-microsoft-ds
-
-3389/tcp
-
-ms-wbt-server
-
-MAC Address
-
-1C:C1:DE:EA:CA:06
-
-Hewlett Packard
-
-22/tcp
-
-open
-
-SSH server
-
-http://10.10.1.14
-
-22/tcp
-
-open
-
-SSH server
-
-http://10.10.1.17
-
-10.20.1.X
----------
-
-PORT
-
-STATE
-
-SERVICE
-
-IP ADDRESS
-
-22/tcp
-
-open
-
-Apache2 Ubuntu server
-
-http://10.20.1.157
-
-22/tcp
-
-open
-
-Apache2 Ubuntu server
-
-http://10.20.1.166
+  <head>
+    <ul>
+      <li>🤔 I’m looking for people who can contribute to this repo<li>
+      <li>📫 How to reach me: Shady_06@protonmail.ch<li>
+    </ul>
+    <style>
+      table.t1 {
+        empty-cells: hide;
+      }
+    </style>
+  </head>
+  
+<h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3>
+<h2>PWNED</h2>
+<table class="t1" border='1' text-align='left' style='border-collapse:collapse'>
+  <tr>
+    <th>WIFI</th>
+    <td>SOPHOS</td>
+    <td>https://10.10.1.2:8090/httpclient.html</td>
+  </tr>
+  <tr>
+    <th>FTP server</th>
+    <td>Wing FTP Server</td>
+    <td>http://10.10.1.12/main.html</td>
+  </tr>
+  <tr>
+    <th>LIBRARY</th>
+    <td>KOHA</td>
+    <td>http://10.10.1.5/inout/login.php</td>
+  </tr>
+</table>
+
+<h2>10.10.1.X</h2>
+<table class="t1" border='1' style='border-collapse:collapse'>
+  <tr>
+    <th>PORT</th>
+    <th>STATE</th>
+    <th>SERVICE</th>
+    <th>IP ADDRESS</th>
+  </tr>
+  <tr>
+    <td>22/tcp</td>
+    <td>open</td>
+    <td>Library main page</td>
+    <td>http://10.10.1.5</td>
+  </tr>
+  <tr>
+    <td>22/tcp</td>
+    <td>open</td>
+    <td>Storage Management Utility</td>
+    <td>http://10.10.1.8</td>
+  </tr>
+  <tr>
+    <td>22/tcp</td>
+    <td>open</td>
+    <td>Apache 2 web server</td>
+    <td>http://10.10.1.9</td>
+  </tr>
+  <tr>
+    <td>21/tcp</td>
+    <td>open</td>
+    <td>Wing FTP server</td>
+    <td>http://10.10.1.12</td>
+  </tr>
+  <tr>
+    <td>22/tcp<td>
+    <td>&nbsp;<td>
+    <td>ssh<td>
+    <td>&nbsp;<td>
+  </tr>
+  <tr>
+    <td>80/tcp<td>
+    <td><td>
+    <td>http<td>
+    <td><td>
+  </tr>
+  <tr>
+    <td>111/tcp<td>
+    <td><td>
+    <td>rpcbind<td>
+    <td><td>
+  </tr>
+  <tr>
+    <td>135/tcp<td>
+    <td><td>
+    <td>msrpc<td>
+    <td><td>
+  </tr>
+  <tr>
+    <td>139/tcp<td>
+    <td><td>
+    <td>netbios-ssn<td>
+    <td><td>
+  </tr>
+  <tr>
+    <td>443/tcp<td>
+    <td><td>
+    <td>https<td>
+    <td><td>
+  </tr>
+  <tr>
+    <td>445/tcp<td>
+    <td><td>
+    <td>microsoft-ds<td>
+    <td><td>
+  </tr>
+  <tr>
+    <td>3389/tcp<td>
+    <td><td>
+    <td>ms-wbt-server<td>
+    <td><td>
+  </tr>
+  <tr>
+    <td>MAC Address<td>
+    <td>1C:C1:DE:EA:CA:06<td>
+    <td>Hewlett Packard<td>
+    <td><td>
+  </tr>  
+  <tr>
+    <td>22/tcp</td>
+    <td>open</td>
+    <td>SSH server</td>
+    <td>http://10.10.1.14</td>
+  </tr>
+  <tr>
+    <td>22/tcp</td>
+    <td>open</td>
+    <td>SSH server</td>
+    <td>http://10.10.1.17</td>
+  </tr>
+</table>
+
+<h2>10.20.1.X</h2>
+<table class="t1" border='1' style='border-collapse:collapse'>
+  <tr>
+    <th>PORT</th>
+    <th>STATE</th>
+    <th>SERVICE</th>
+    <th>IP ADDRESS</th>
+  </tr>
+  <tr>
+    <td>22/tcp</td>
+    <td>open</td>
+    <td>Apache2 Ubuntu server</td>
+    <td>http://10.20.1.157</td>
+  </tr>
+  <tr>
+    <td>22/tcp</td>
+    <td>open</td>
+    <td>Apache2 Ubuntu server</td>
+    <td>http://10.20.1.166</td>
+  </tr>
+</table>
