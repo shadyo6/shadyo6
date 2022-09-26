@@ -1,6 +1,6 @@
 <ul>
-  <li>🤔 I’m looking for people who can contribute to this repo<li>
-  <li>📫 How to reach me: Shady_06@protonmail.ch<li>
+  <li>🤔 I’m looking for people who can contribute to this repo</li>
+  <li>📫 How to reach me: Shady_06@protonmail.ch</li>
 </ul>
   
 <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3>
@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td>3389/tcp</td>
-    <td>open<td>
+    <td>open</td>
     <td>ms-wbt-server</td>
     <td>&nbsp;</td>
   </tr>
