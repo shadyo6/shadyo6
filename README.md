@@ -6,11 +6,12 @@
 <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3>
 <h2>PWNED</h2>
 
-|Header1 |Header2  | Header3|
-|:---| ---:|:---:|
+
 |Align left| Align right|center text|
 |cell data1|cell data2|cell data3|
 
+|SERVICE |NAME  | URL|
+|:---| ---:|:---:|
 | WIFI | SOPHOS | https://10.10.1.2:8090/httpclient.html |
 | FTP server| Wing FTP Server | http://10.10.1.12/main.html |
 | LIBRARY | KOHA | http://10.10.1.5/inout/login.php |
