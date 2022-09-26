@@ -6,14 +6,14 @@
 
 
 |SERVICE|NAME|URL|
-|:---: |:---: |:---:|
+| :---: | :---: | :---: |
 | WIFI | SOPHOS | https://10.10.1.2:8090/httpclient.html |
 | FTP server| Wing FTP Server | http://10.10.1.12/main.html |
 | LIBRARY | KOHA | http://10.10.1.5/inout/login.php |
 
 ##10.10.1.X
 | PORT | STATE | SERVICE | IP ADDRESS |
-|:---: |:---: |:---:|
+| :---: | :---: | :---: | :---: |
 | 22/tcp | open | Library main page | http://10.10.1.5 |
 | 22/tcp | open | Storage Management Utility |http://10.10.1.8 |
 | 22/tcp | open | Apache 2 web server | http://10.10.1.9 |
@@ -33,6 +33,6 @@
 ##10.20.1.X
 
 | PORT | STATE | SERVICE | IP ADDRESS |
-|:---: |:---: |:---:|
+| :---: | :---: | :---: | :---: |
 |22/tcp|open|Apache2 Ubuntu server|http://10.20.1.157|
 |22/tcp|open|Apache2 Ubuntu server|http://10.20.1.166|
