@@ -39,7 +39,7 @@
     <th>IP ADDRESS</th>
   </tr>
     <td> 22/tcp </td>
-    <td> open</td>
+    <td rowspan="14">open</td>
     <td>Library main page</td>
     <td>http://10.10.1.5</td>
   </tr>
