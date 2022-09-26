@@ -5,23 +5,11 @@
   
 <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3>
 <h2>PWNED</h2>
-<table border='1' text-align='left' style='border-collapse:collapse'>
-  <tr>
-    <th>WIFI</th>
-    <td>SOPHOS</td>
-    <td>https://10.10.1.2:8090/httpclient.html</td>
-  </tr>
-  <tr>
-    <th>FTP server</th>
-    <td>Wing FTP Server</td>
-    <td>http://10.10.1.12/main.html</td>
-  </tr>
-  <tr>
-    <th>LIBRARY</th>
-    <td>KOHA</td>
-    <td>http://10.10.1.5/inout/login.php</td>
-  </tr>
-</table>
+
+| :---       |    :----        | :---                                                 |
+| WIFI       | SOPHOS          | [Here's this](https://10.10.1.2:8090/httpclient.html)|
+| FTP server | Wing FTP Server | [And more](http://10.10.1.12/main.html)              |
+| LIBRARY    | KOHA            | http://10.10.1.5/inout/login.php                     |
 
 <h2>10.10.1.X</h2>
 <table class="t1" border='1' style='border-collapse:collapse'>
