@@ -65,49 +65,49 @@
     <td>80/tcp</td>
     <td>open</td>
     <td>http</td>
-    <td></td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>111/tcp<td>
+    <td>111/tcp</td>
     <td>open</td>
     <td>rpcbind</td>
-    <td></td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>135/tcp</td>
     <td>open</td>
     <td>msrpc</td>
-    <td></td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>139/tcp</td>
     <td>open</td>
     <td>netbios-ssn</td>
-    <td></td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>443/tcp</td>
     <td>open</td>
     <td>https</td>
-    <td></td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>445/tcp</td>
     <td>open</td>
     <td>microsoft-ds</td>
-    <td></td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>3389/tcp</td>
     <td>open<td>
     <td>ms-wbt-server</td>
-    <td></td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>MAC Address</td>
     <td>1C:C1:DE:EA:CA:06</td>
     <td>Hewlett Packard</td>
-    <td></td>
+    <td>&nbsp;</td>
   </tr>  
   <tr>
     <td>22/tcp</td>
