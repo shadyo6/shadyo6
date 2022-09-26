@@ -59,13 +59,13 @@
     <td>22/tcp</td>
     <td>open</td>
     <td>ssh</td>
-    <td>&nbsp;</td>
+    <td></td>
   </tr>
   <tr>
     <td>80/tcp</td>
     <td>open</td>
     <td>http</td>
-    <td>&nbsp;</td>
+    <td></td>
   </tr>
   <tr>
     <td>111/tcp</td>
