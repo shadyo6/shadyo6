@@ -60,61 +60,43 @@
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td></td>
     <td>ssh</td>
-
   </tr>
   <tr>
     <td>80/tcp</td>
-    <td></td>
     <td>http</td>
-    
   </tr>
   <tr>
     <td>111/tcp</td>
-    <td></td>
     <td>rpcbind</td>
-  
   </tr>
   <tr>
     <td>135/tcp</td>
-    <td></td>
     <td>msrpc</td>
-   
   </tr>
   <tr>
     <td>139/tcp</td>
-    <td></td>
     <td>netbios-ssn</td>
-    
   </tr>
   <tr>
     <td>443/tcp</td>
-    <td></td>
     <td>https</td>
- 
   </tr>
   <tr>
     <td>445/tcp</td>
-    <td></td>
     <td>microsoft-ds</td>
- 
   </tr>
   <tr>
     <td>3389/tcp</td>
-    <td></td>
     <td>ms-wbt-server</td>
-
   </tr> 
   <tr>
     <td>22/tcp</td>
-    <td></td>
     <td>SSH server</td>
     <td>http://10.10.1.14</td>
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td></td>
     <td>SSH server</td>
     <td>http://10.10.1.17</td>
   </tr>
