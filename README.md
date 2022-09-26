@@ -112,13 +112,12 @@
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td>open</td>
+    <td rowspan="2">open</td>
     <td>Apache2 Ubuntu server</td>
     <td>http://10.20.1.157</td>
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td>open</td>
     <td>Apache2 Ubuntu server</td>
     <td>http://10.20.1.166</td>
   </tr>
