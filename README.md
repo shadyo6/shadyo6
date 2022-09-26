@@ -45,79 +45,79 @@
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>Storage Management Utility</td>
     <td>http://10.10.1.8</td>
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>Apache 2 web server</td>
     <td>http://10.10.1.9</td>
   </tr>
   <tr>
     <td>21/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>Wing FTP server</td>
     <td rowspan="9">http://10.10.1.12</td>
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>ssh</td>
 
   </tr>
   <tr>
     <td>80/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>http</td>
     
   </tr>
   <tr>
     <td>111/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>rpcbind</td>
   
   </tr>
   <tr>
     <td>135/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>msrpc</td>
    
   </tr>
   <tr>
     <td>139/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>netbios-ssn</td>
     
   </tr>
   <tr>
     <td>443/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>https</td>
  
   </tr>
   <tr>
     <td>445/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>microsoft-ds</td>
  
   </tr>
   <tr>
     <td>3389/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>ms-wbt-server</td>
 
   </tr> 
   <tr>
     <td>22/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>SSH server</td>
     <td>http://10.10.1.14</td>
   </tr>
   <tr>
     <td>22/tcp</td>
-    <td>open</td>
+    <td>&nspb;</td>
     <td>SSH server</td>
     <td>http://10.10.1.17</td>
   </tr>
