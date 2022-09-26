@@ -11,11 +11,10 @@
 |Align left| Align right|center text|
 |cell data1|cell data2|cell data3|
 
-|QUICK ACCESS|
-| :--- |:----|:---|
-| WIFI       | SOPHOS          | [Here's this](https://10.10.1.2:8090/httpclient.html)|
-| FTP server | Wing FTP Server | [And more](http://10.10.1.12/main.html)              |
-| LIBRARY    | KOHA            | http://10.10.1.5/inout/login.php                     |
+|:--- |:----|:---|
+| WIFI | SOPHOS | https://10.10.1.2:8090/httpclient.html |
+| FTP server| Wing FTP Server | http://10.10.1.12/main.html |
+| LIBRARY | KOHA | http://10.10.1.5/inout/login.php |
 
 <h2>10.10.1.X</h2>
 <table class="t1" border='1' style='border-collapse:collapse'>
