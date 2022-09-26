@@ -17,7 +17,7 @@
 | 22/tcp | open | Library main page | http://10.10.1.5 |
 | 22/tcp | open | Storage Management Utility |http://10.10.1.8 |
 | 22/tcp | open | Apache 2 web server | http://10.10.1.9 |
-| 21/tcp | open | Wing FTP server| http://10.10.1.12 |
+| 21/tcp | open | Wing FTP server| Span <td colspan=3>http://10.10.1.12<td colspan=9> |
 | 22/tcp | open | ssh |
 | 80/tcp | open | http |
 | 111/tcp | open | rpcbind |
@@ -29,6 +29,7 @@
 |MAC Address|1C:C1:DE:EA:CA:06|Hewlett Packard|&nbsp;|
 | 22/tcp | open | SSH server | http://10.10.1.14 |
 | 22/tcp | open | SSH server | http://10.10.1.17 |
+
 
 ## 10.20.1.X
 
