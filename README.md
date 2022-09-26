@@ -1,18 +1,11 @@
-  <head>
-    <ul>
-      <li>🤔 I’m looking for people who can contribute to this repo<li>
-      <li>📫 How to reach me: Shady_06@protonmail.ch<li>
-    </ul>
-    <style>
-      table.t1 {
-        empty-cells: hide;
-      }
-    </style>
-  </head>
+<ul>
+  <li>🤔 I’m looking for people who can contribute to this repo<li>
+  <li>📫 How to reach me: Shady_06@protonmail.ch<li>
+</ul>
   
 <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3>
 <h2>PWNED</h2>
-<table class="t1" border='1' text-align='left' style='border-collapse:collapse'>
+<table border='1' text-align='left' style='border-collapse:collapse'>
   <tr>
     <th>WIFI</th>
     <td>SOPHOS</td>
@@ -63,58 +56,58 @@
     <td>http://10.10.1.12</td>
   </tr>
   <tr>
-    <td>22/tcp<td>
-    <td>&nbsp;<td>
-    <td>ssh<td>
-    <td>&nbsp;<td>
+    <td>22/tcp</td>
+    <td>open</td>
+    <td>ssh</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>80/tcp<td>
-    <td><td>
-    <td>http<td>
-    <td><td>
+    <td>80/tcp</td>
+    <td>open</td>
+    <td>http</td>
+    <td></td>
   </tr>
   <tr>
     <td>111/tcp<td>
-    <td><td>
-    <td>rpcbind<td>
-    <td><td>
+    <td>open</td>
+    <td>rpcbind</td>
+    <td></td>
   </tr>
   <tr>
-    <td>135/tcp<td>
-    <td><td>
-    <td>msrpc<td>
-    <td><td>
+    <td>135/tcp</td>
+    <td>open</td>
+    <td>msrpc</td>
+    <td></td>
   </tr>
   <tr>
-    <td>139/tcp<td>
-    <td><td>
-    <td>netbios-ssn<td>
-    <td><td>
+    <td>139/tcp</td>
+    <td>open</td>
+    <td>netbios-ssn</td>
+    <td></td>
   </tr>
   <tr>
-    <td>443/tcp<td>
-    <td><td>
-    <td>https<td>
-    <td><td>
+    <td>443/tcp</td>
+    <td>open</td>
+    <td>https</td>
+    <td></td>
   </tr>
   <tr>
-    <td>445/tcp<td>
-    <td><td>
-    <td>microsoft-ds<td>
-    <td><td>
+    <td>445/tcp</td>
+    <td>open</td>
+    <td>microsoft-ds</td>
+    <td></td>
   </tr>
   <tr>
-    <td>3389/tcp<td>
-    <td><td>
-    <td>ms-wbt-server<td>
-    <td><td>
+    <td>3389/tcp</td>
+    <td>open<td>
+    <td>ms-wbt-server</td>
+    <td></td>
   </tr>
   <tr>
-    <td>MAC Address<td>
-    <td>1C:C1:DE:EA:CA:06<td>
-    <td>Hewlett Packard<td>
-    <td><td>
+    <td>MAC Address</td>
+    <td>1C:C1:DE:EA:CA:06</td>
+    <td>Hewlett Packard</td>
+    <td></td>
   </tr>  
   <tr>
     <td>22/tcp</td>
@@ -131,7 +124,7 @@
 </table>
 
 <h2>10.20.1.X</h2>
-<table class="t1" border='1' style='border-collapse:collapse'>
+<table border='1' style='border-collapse:collapse'>
   <tr>
     <th>PORT</th>
     <th>STATE</th>
