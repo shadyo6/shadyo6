@@ -17,7 +17,7 @@
 | 22/tcp | open | Library main page | http://10.10.1.5 |
 | 22/tcp | open | Storage Management Utility |http://10.10.1.8 |
 | 22/tcp | open | Apache 2 web server | http://10.10.1.9 |
-| 21/tcp | open | Wing FTP server <td rowspan=10>http://10.10.1.12</td>|
+| 21/tcp | open | Wing FTP server | rowspan=10 http://10.10.1.12 |
 | 22/tcp | open | ssh |
 | 80/tcp | open | http |
 | 111/tcp | open | rpcbind |
