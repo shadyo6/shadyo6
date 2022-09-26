@@ -6,6 +6,7 @@
 <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3>
 <h2>PWNED</h2>
 
+|                               QUICK ACCESS                                          |
 | :---       |    :----        | :---                                                 |
 | WIFI       | SOPHOS          | [Here's this](https://10.10.1.2:8090/httpclient.html)|
 | FTP server | Wing FTP Server | [And more](http://10.10.1.12/main.html)              |
