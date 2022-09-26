@@ -65,7 +65,7 @@
     <td>22/tcp</td>
     <td>open</td>
     <td>ssh</td>
-    <td>&nspb;</td>
+
   </tr>
   <tr>
     <td>80/tcp</td>
