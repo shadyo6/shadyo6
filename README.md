@@ -37,21 +37,6 @@
  </tr>
 </table>
 
-<h2>10.10.1.5</h2>
-<table border='1' style='border-collapse:collapse'>
-  <tr>
-	<th>PORT</th>
-    	<th>STATE</th>
-    	<th>SERVICE</th>
-    	<th>IP ADDRESS</th>
-  </tr>
-    	<td> 22/tcp </td>
-    	<td rowspan="14">open</td>
-    	<td>Library main page</td>
-    	<td>http://10.10.1.5</td>
-  </tr>
-</table>
-
 <h2>10.10.1.9</h2>
 <table border='1' style='border-collapse:collapse'>
   <tr>
