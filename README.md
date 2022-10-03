@@ -1,19 +1,19 @@
 <pre>
-	    __              __     _                                           .---.                 
-      _____/ /_  ____ _____/ /_  _( )_____   ________  ____  ____             /     \                
-     / ___/ __ \/ __ `/ __  / / / /// ___/  / ___/ _ \/ __ \/ __ \            \.@-@./                
-    (__  ) / / / /_/ / /_/ / /_/ / (__  )  / /  /  __/ /_/ / /_/ /            /`\_/`\                
-   /____/_/ /_/\__,_/\__,_/\__, / /____/  /_/   \___/ .___/\____/ 	     //  _  \\               
-			  /____/                   /_/                      | \     )|_              
-									   /`\_`>  <_/ \              
-									   \__/'---'\__/             
-  shady:~$ sftp root@10.10.1.12                                                                     
-  Password:                                                                                          
-  We trust you have received the usual lecture from the local System Administrator.                  
-  It usually boils down to these three things:                                                       
-	   #1) Do not delete any file                                                                
-	   #2) Think before you copy, upon getting caught don't compromise the server.               
-	   #3) With great power comes great responsibility.                                          
+			    __              __     _                                           .---.                 
+		      _____/ /_  ____ _____/ /_  _( )_____   ________  ____  ____             /     \                
+		     / ___/ __ \/ __ `/ __  / / / /// ___/  / ___/ _ \/ __ \/ __ \            \.@-@./                
+		    (__  ) / / / /_/ / /_/ / /_/ / (__  )  / /  /  __/ /_/ / /_/ /            /`\_/`\                
+		   /____/_/ /_/\__,_/\__,_/\__, / /____/  /_/   \___/ .___/\____/ 	     //  _  \\               
+					  /____/                   /_/                      | \     )|_              
+											   /`\_`>  <_/ \              
+											   \__/'---'\__/             
+		  shady:~$ sftp root@10.10.1.12                                                                     
+		  Password:                                                                                          
+		  We trust you have received the usual lecture from the local System Administrator.                  
+		  It usually boils down to these three things:                                                       
+			   #1) Do not delete any file                                                                
+			   #2) Think before you copy, upon getting caught don't compromise the server.               
+			   #3) With great power comes great responsibility.                                          
 
 </pre>
 
