@@ -31,7 +31,7 @@
  </tr>
  </tr>
    </tr>
-    <td> STORAGE MANAGMENT UTILITY </td>
+    <td> Storage Managment Utility </td>
     <td> HP P2000 G3 </td>
     <td> http://10.10.1.8 </td>
  </tr>
