@@ -1,4 +1,4 @@
-<pre>
+<p>
 		    __              __     _                                           .---.                 
 	      _____/ /_  ____ _____/ /_  _( )_____   ________  ____  ____             /     \                
 	     / ___/ __ \/ __ `/ __  / / / /// ___/  / ___/ _ \/ __ \/ __ \            \.@-@./                
@@ -15,7 +15,7 @@
 		   #2) Think before you copy, upon getting caught don't compromise the server.               
 		   #3) With great power comes great responsibility.                                          
 
-</pre>
+</p>
 
 <ul>
   <li>🤔 I’m looking for people who can contribute to this repo</li>
