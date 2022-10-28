@@ -35,37 +35,4 @@
 
 <strong><h3 align="center" >IP ADDRESSES</h3></strong>
 
-<table>
-	<tr>
-		<th> SERVICE </th>
-		<th> NAME </th>
-		<th> IP ADDRESS </th>
-	</tr>
-	<tr>
-		<td> WIFI </td>
-		<td> SOPHOS </td>
-		<td><a href="http://10.10.1.2"> 10.10.1.2 </a></td>
-	</tr>
-	<tr>
-		<td> FTP server </td>
-		<td> Wing FTP Server </td>
-		<td><a href="http://210.212.207.12/login.html"> 210.212.207.12 </a></td>
-	</tr>
-	<tr>
-		<td> LIBRARY </td>
-		<td> KOHA </td>
-		<td><a href="http://10.10.1.5/inout/login.php"> 10.10.1.5 </a></td>
-	</tr>
 
-	<tr>
-		<td> Storage Managment Utility </td>
-		<td> HP P2000 G3 </td>
-		<td><a href="http://10.10.1.8">10.10.1.8</a></td>
-	</tr>
-
-	<tr>
-		<td> Impartus </td>
-		<td>OpenSSH 6.6. | nginx | MySQL 5.5.50-0</td>
-		<td><a href="http://210.212.207.38/login/#/">210.212.207.38</a></td>
-	</tr>
-</table>
