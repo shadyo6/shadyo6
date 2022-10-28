@@ -34,7 +34,6 @@
 | Impartus | OpenSSH 6.6.1 / nginx / MySQL 5.5.50-0 | [210.212.207.38](http://210.212.207.38/login/#/ "210.212.207.38") |
 -->
 
-<div>
 <strong><h3 align="center" >IP ADDRESSES</h3></strong>
 
 <table>
@@ -71,4 +70,3 @@
 		<td><a href="http://210.212.207.38/login/#/">210.212.207.38</a></td>
 	</tr>
 </table>
-</div>
