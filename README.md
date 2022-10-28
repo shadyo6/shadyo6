@@ -37,15 +37,15 @@
 <div>
 <strong><h3 align="center" >IP ADDRESSES</h3></strong>
 
-	<table>
-	<tr >
+<table>
+	<tr>
 		<th>SERVICE</th>
 		<th>NAME</th>
 		<th>IP ADDRESS</th>
 	</tr>
 	<tr>
 		<td> WIFI </td>
-		<td></t> SOPHOS </td>
+		<td> SOPHOS </td>
 		<td><a href=>10.10.1.2</a></td>
 	</tr>
 	<tr>
@@ -70,5 +70,5 @@
 		<td >OpenSSH 6.6. | nginx | MySQL 5.5.50-0</td>
 		<td><a href="http://210.212.207.38/login/#/">210.212.207.38</a></td>
 	</tr>
-	</table>
+</table>
 </div>
