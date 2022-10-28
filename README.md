@@ -23,7 +23,7 @@
 
 <hr>
 
-<!-- ###CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK
+<!-- ###CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK -->
 
 
 ## IP ADDRESSES
@@ -34,8 +34,8 @@
 | LIBRARY | KOHA | [10.10.1.5](http://10.10.1.5/inout/login.php "10.10.1.5") |
 | Storage Managment Utility | HP P2000 G3 | [10.10.1.8](http://10.10.1.8 "10.10.1.8") |
 | Impartus | OpenSSH 6.6.1 / nginx / MySQL 5.5.50-0 | [210.212.207.38](http://210.212.207.38/login/#/ "210.212.207.38") |
--->
 
+<!--
 <div>
 <strong><h3 style="font-size:40px; color:red; text-align:center; border:2px solid Tomato;" >IP ADDRESSES</h3></strong>
 
@@ -74,3 +74,4 @@
 	</tr>
 	</table>
 </div>
+-->
