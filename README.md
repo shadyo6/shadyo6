@@ -23,9 +23,9 @@
   <li>📫 How to reach me: Shady_06@protonmail.ch</li>
 </ul>
 
-<h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3>
+<!-- <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3> -->
 
-<h2>PWNED</h2>
+<h2>IP ADDRESSES</h2>
 
 <table>
   <tr>
@@ -55,4 +55,12 @@
     <td> HP P2000 G3 </td>
     <td><a href="http://10.10.1.8">10.10.1.8</a></td>
  </tr>
+</tr>
+   </tr>
+    <td> Impartus </td>
+    <td>OpenSSH 6.6.1p1/nginx/MySQL 5.5.50-0</td>
+    <td><a href="http://210.212.207.38/login/#/">210.212.207.38</a></td>
+ </tr>
+	
+	
 </table>
