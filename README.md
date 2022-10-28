@@ -24,7 +24,7 @@
 </ul>
 
 <!-- <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3> -->
-
+<center>
 <h2>IP ADDRESSES</h2>
 
 <table>
@@ -61,6 +61,5 @@
     <td>OpenSSH 6.6.1p1/nginx/MySQL 5.5.50-0</td>
     <td><a href="http://210.212.207.38/login/#/">210.212.207.38</a></td>
  </tr>
-	
-	
 </table>
+</center>
