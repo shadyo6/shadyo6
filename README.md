@@ -36,7 +36,7 @@
   </tr>
     <td> WIFI </td>
     <td> SOPHOS </td>
-    <td>https://10.10.1.2:8090/httpclient.html</td>
+    <td><a href="https://10.10.1.2:8090/httpclient.html">10.10.1.2</a></td>
  </tr>
    </tr>
     <td> FTP server </td>
@@ -47,13 +47,13 @@
    </tr>
     <td> LIBRARY </td>
     <td> KOHA </td>
-    <td> http://10.10.1.5/inout/login.php </td>
+    <td><a href="http://10.10.1.5/inout/login.php>10.10.1.5</a></td>
  </tr>
  </tr>
    </tr>
     <td> Storage Managment Utility </td>
     <td> HP P2000 G3 </td>
-    <td> http://10.10.1.8 </td>
+    <td><a href="http://10.10.1.8">10.10.1.8</a></td>
  </tr>
 </table>
 
