@@ -24,8 +24,8 @@
 </ul>
 
 <!-- <h3>CONNECT TO THE NETWORK BEFORE ACCESSING THE FTP SERVER, LOGIN TO SOPHOS DOESN'T MATTER JUST BE CONNECTED TO THE NETWORK</h3> -->
-<center>
-<h2>IP ADDRESSES</h2>
+
+<h2><center>IP ADDRESSES</center></h2>
 
 <table>
   <tr>
@@ -62,4 +62,3 @@
     <td><a href="http://210.212.207.38/login/#/">210.212.207.38</a></td>
  </tr>
 </table>
-</center>
