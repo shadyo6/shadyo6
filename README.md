@@ -41,7 +41,7 @@
    </tr>
     <td> FTP server </td>
     <td> Wing FTP Server </td>
-    <td> http://10.10.1.12/main.html </td>
+    <td>[10.10.1.12](http://210.212.207.12/login.html)</td>
  </tr>
  </tr>
    </tr>
