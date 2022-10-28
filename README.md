@@ -57,14 +57,13 @@
 		<td><a href="http://210.212.207.12/login.html"> 210.212.207.12 </a></td>
 	</tr>
 	<tr>
-		<td> LIBRARY </td>
-		<td> KOHA </td>
-		<td><a href="http://10.10.1.5/inout/login.php"> 10.10.1.5 </a></td>
-	</tr>
-
-	<tr>
 		<td> Storage Managment Utility </td>
 		<td> HP P2000 G3 </td>
 		<td><a href="http://10.10.1.8">10.10.1.8</a></td>
+	</tr>
+	<tr>
+		<td> LIBRARY </td>
+		<td> KOHA </td>
+		<td><a href="http://10.10.1.5/inout/login.php"> 10.10.1.5 </a></td>
 	</tr>
 </table>
