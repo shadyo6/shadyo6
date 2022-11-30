@@ -9,12 +9,13 @@
 					  \___)=(___/
 									  
 	  shady:~$ sftp root@10.10.1.12                                                                     
-	  Password:                                                                                          
-	  We trust you have received the usual lecture from the local System Administrator.                  
-	  It usually boils down to these three things:                                                       
-		   #1) Do not delete any file                                                                
-		   #2) Don't compromise the server.               
-		   #3) With great power comes great responsibility.                                          
+	  Password:                                 
+	  
+	  We trust you have received the usual lecture from the local System Administrator.   
+	  It usually boils down to these three things:
+	  #1) Do not delete any file                                                                
+	  #2) Don't compromise the server.               
+	  #3) With great power comes great responsibility.                                          
 
 </pre>
 
