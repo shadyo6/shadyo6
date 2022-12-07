@@ -13,7 +13,7 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 						  \___)=(___/
 </pre>
 ```								  
-		  shady:~$ sftp root@10.10.1.12                                                                     
+		  shady:~$ sftp root@210.212.207.12                                                                
 		  Password:                                 
 
 		  We trust you have received the usual lecture from the local System Administrator.   
