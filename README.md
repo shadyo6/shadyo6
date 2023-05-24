@@ -80,3 +80,118 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 	</tr>
 </table>
 <div>
+	
+<strong><h3 align="center" >STAFF-PC LOCAL IP</h3></strong>
+
+<div align="center">
+<table>
+	<tr>
+		<th> LAB NUMBER </th>
+		<th> LAB NAME </th>
+		<th> IP ADDRESS </th>
+		<th> USERNAME </th>
+		<th> PASSWORD </th>
+		<th> RDP STATUS </th>
+		<th> SSH STATUS </th>
+	</tr>
+	<tr>
+		<td> LAB 01 </td>
+		<td> Windows lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 02 </td>
+		<td> Linux lab </td>
+		<td> 10.11.1.121 </td>
+		<td> Lab2 </td>
+		<td> 2 </td>
+		<td> YES </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 03 </td>
+		<td> DOS lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 04 </td>
+		<td> VLSI lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 05 </td>
+		<td> Networking lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 06 </td>
+		<td> Programming lab </td>
+		<td> - </td>
+		<td> Lab6 </td>
+		<td> 6 </td>
+		<td> YES </td>
+		<td> NO </td>
+	</tr>
+	<tr>
+		<td> LAB 07 </td>
+		<td> CAD lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 08 </td>
+		<td> Wifi lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 09 </td>
+		<td> IOT lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 10 </td>
+		<td> MBA lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>	
+	<tr>
+		<td> LAB 11 </td>
+		<td> Browsing lab </td>
+		<td> - </td>
+		<td> - </td>
+		<td> - </td>
+		<td> NO </td>
+		<td> NO </td>
+	</tr>
+</table>
+</div>
