@@ -153,7 +153,7 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 		<td> lab6 </td>
 		<td> 6 </td>
 		<td> YES </td>
-		<td> NO </td>
+		<td> YES </td>
 	</tr>
 	<tr>
 		<td> LAB 07 </td>
