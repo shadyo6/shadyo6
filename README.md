@@ -81,13 +81,14 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 </table>
 <div>
 	
-<strong><h3 align="center" >STAFF-PC LOCAL IP</h3></strong>
+<strong><h3 align="center" >PROJECTOR-PC LOCAL IP</h3></strong>
 
 <div align="center">
 <table>
 	<tr>
 		<th> LAB NUMBER </th>
 		<th> LAB NAME </th>
+		<th> PC NAME </th>
 		<th> IP ADDRESS </th>
 		<th> USERNAME </th>
 		<th> PASSWORD </th>
@@ -100,12 +101,14 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
+		<td> - </td>
 		<td> NO </td>
 		<td> NO </td>
 	</tr>	
 	<tr>
 		<td> LAB 02 </td>
 		<td> Linux lab </td>
+		<td> - </td>
 		<td> 10.11.1.121 </td>
 		<td> Lab2 </td>
 		<td> 2 </td>
@@ -118,12 +121,14 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
+		<td> - </td>
 		<td> NO </td>
 		<td> NO </td>
 	</tr>	
 	<tr>
 		<td> LAB 04 </td>
 		<td> VLSI lab </td>
+		<td> - </td>
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
@@ -136,14 +141,16 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
+		<td> - </td>
 		<td> NO </td>
 		<td> NO </td>
 	</tr>	
 	<tr>
 		<td> LAB 06 </td>
 		<td> Programming lab </td>
-		<td> - </td>
-		<td> Lab6 </td>
+		<td> GIT-LAB6-13 </td>
+		<td> 10.12.2.153 </td>
+		<td> lab6 </td>
 		<td> 6 </td>
 		<td> YES </td>
 		<td> NO </td>
@@ -151,6 +158,7 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 	<tr>
 		<td> LAB 07 </td>
 		<td> CAD lab </td>
+		<td> - </td>
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
@@ -163,12 +171,14 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
+		<td> - </td>
 		<td> NO </td>
 		<td> NO </td>
 	</tr>	
 	<tr>
 		<td> LAB 09 </td>
 		<td> IOT lab </td>
+		<td> - </td>
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
@@ -181,12 +191,14 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
+		<td> - </td>
 		<td> NO </td>
 		<td> NO </td>
 	</tr>	
 	<tr>
 		<td> LAB 11 </td>
 		<td> Browsing lab </td>
+		<td> - </td>
 		<td> - </td>
 		<td> - </td>
 		<td> - </td>
