@@ -150,7 +150,17 @@ $\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
 		<td> Programming lab </td>
 		<td> GIT-LAB6-13 </td>
 		<td> 10.12.2.153 </td>
-		<td> lab6 </td>
+		<td> admin </td>
+		<td> 6 </td>
+		<td> YES </td>
+		<td> YES </td>
+	</tr>
+	<tr>
+		<td> LAB 06 </td>
+		<td> Programming lab </td>
+		<td> DESKTOP-15H9B59 </td>
+		<td> 10.12.2.154 </td>
+		<td> admin </td>
 		<td> 6 </td>
 		<td> YES </td>
 		<td> YES </td>
