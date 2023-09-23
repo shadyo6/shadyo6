@@ -1,16 +1,14 @@
-<h1 align="center">
-$\mathnormal{Network}$ $\mathnormal{Reconnaissance}$
-</h1>
+<p align="center">$\mathnormal{Network}$ $\mathnormal{Reconnaissance}$</p>
 
 <pre>
 
-						      .--.
-						     |o_o |
-						     |:_/ |
-						    //   \ \
-						   (|     | )
-						  /'\_   _/`\
-						  \___)=(___/
+				 		         .--.
+				 		        |o_o |
+						        |:_/ |
+						       //   \ \
+						      (|     | )
+						     /'\_   _/`\
+						     \___)=(___/
 </pre>
 ```								                            
 		  We trust you have received the usual lecture from the local System Administrator.   
