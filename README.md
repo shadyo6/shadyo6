@@ -2,13 +2,13 @@
 
 <pre>
 
-						 .--.
-						|o_o |
-						|:_/ |
-					       //   \ \
-					      (|     | )
-					     /'\_   _/`\
-					     \___)=(___/
+					       .--.
+					      |o_o |
+					      |:_/ |
+					     //   \ \
+					    (|     | )
+					   /'\_   _/`\
+					   \___)=(___/
 </pre>
 ```								                            
 		  We trust you have received the usual lecture from the local System Administrator.   
